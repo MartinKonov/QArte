@@ -172,7 +172,7 @@ QArté should ensure the secure handling of user data, access control, and inter
 
 **Compliance:** 
 
-` `QArté should adhere to privacy, data protection, and confidentiality regulations.   
+QArté should adhere to privacy, data protection, and confidentiality regulations.   
 
 **Usability:**  
 
