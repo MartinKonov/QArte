@@ -1,4 +1,4 @@
-﻿1601 Washington Ave, Suite 300, Miami Beach, FL 33139
+
 
 QArté
 
